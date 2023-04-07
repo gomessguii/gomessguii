@@ -21,7 +21,10 @@ I’m Guilherme, **Back-end Software Engineer** and **DevOps** in the free times
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
----
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=gomessguii&show_icons=true&locale=en">
+
 
 ## Contact-me
 
