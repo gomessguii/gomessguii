@@ -1,12 +1,9 @@
-
-<!---
-GuinomoTec/GuinomoTec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api?username=gomessguii&show_icons=true&locale=en">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomessguii&layout=compact">
 
 ### Hi there 👋
 
-I’m Guilherme, **Back-end Software Engineer** and **DevOps** in the free times.
+I’m Guilherme, **Backend Software Engineer** and **DevOps** in the free times.
 
 
 <div style="display: inline_block"><br>
@@ -21,15 +18,10 @@ I’m Guilherme, **Back-end Software Engineer** and **DevOps** in the free times
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=gomessguii&show_icons=true&locale=en">
-
-
 ## Contact-me
 
 <p>
-  <a href="mailto:guinomotec.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:gomessguii1+github@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/gomessguii" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://gitlab.com/gomessguii/" target="_blank"><img src="https://img.shields.io/badge/-GitLab-dfdfdf?style=flat-square&logo=gitlab" alt="GitLab"></a>
   <a href="https://github.com/gomessguii/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
