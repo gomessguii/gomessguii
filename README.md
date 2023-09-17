@@ -1,8 +1,6 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomessguii&layout=compact">
-
 ### Hi there 👋
 
-I’m Guilherme, **Backend Software Engineer** and **DevOps** in the free times.
+I’m Guilherme, **Backend Software Engineer** and **DevOps** in my free time.
 
 
 <div style="display: inline_block"><br>
