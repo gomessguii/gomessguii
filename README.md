@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Guilherme, **Backend Software Engineer** and **DevOps** in my free time.
+I’m Guilherme, **Back End Software Developer** and **DevOps**.
 
 
 <div style="display: inline_block"><br>
